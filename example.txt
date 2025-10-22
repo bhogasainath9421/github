@@ -1,1 +1,2 @@
-kdhkcbhdvbchdkhvckhwdvdhcvkhdchdvkhvch
+kdhkcbhdvbchdkhvckhwdvdhcvkhdchdvkhvc
+hadded second line in example.txt
